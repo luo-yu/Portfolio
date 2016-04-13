@@ -4,8 +4,7 @@ Author
 Portfolio
 =========
 
-Document of my course projects, personal project, etc...
-
+Documentation of my course projects, personal project, etc...
 
 Body of portfolio
 ====
@@ -32,7 +31,6 @@ Use Android SDK
 
 ----
 <li>Created a simple clipboard Android app. Please see: https://github.com/luo-yu/AndroidProjects/tree/master/Chippet</li>
-
 
 
 Create an implementation of a Queue
@@ -63,13 +61,11 @@ Create an implementation of a Heap
 Create an implementation of either Adjanency Lists or Adjacency Matrices
 ----
 
-<li>I am able to create an implementation of a Adjacency List, Please see: https://github.com/luo-yu/SchoolWorks/tree/master/DataAbstractionStructure/08_Graph_Lab </li>
+<li>Implementation of a Adjacency List, Please see: https://github.com/luo-yu/SchoolWorks/tree/master/DataAbstractionStructure/08_Graph_Lab </li>
 
 
 Implement graph algorithms
 ----
-
-
 <li>Implement graph algorithms, Please see: https://github.com/luo-yu/SchoolWorks/tree/master/DataAbstractionStructure/08_Graph_Lab </li>
 
 
