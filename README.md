@@ -10,6 +10,31 @@ Document of my course projects, personal project, etc...
 Body of portfolio
 ====
 
+Use Java programing language, basic to object-oriented concepts
+----
+<li>Please see: https://github.com/luo-yu/SchoolWorks/tree/master/Object-OrientedLanguage</li>
+
+Use Java in data communication (TCP, UDP)
+----
+<li>Created a simple Tic Tac Toe game. Please see: https://github.com/luo-yu/DataCommunication/tree/master/TicTacToe  </li>
+<li>Creatd a spacewar project, a 2d multi-thread game. Please see: https://github.com/luo-yu/DataCommunication/tree/master/SpaceWar</li>
+
+Use C++ programing language, basic to object-oriented concepts
+----
+<li>Please see: https://github.com/luo-yu/SchoolWorks/tree/master/Fall2014/cs216</li>
+
+Use of PHP with MySQL 
+----
+<li>Created a simple CMS website. Please see:  https://github.com/luo-yu/CS405G_Project/tree/santa/santa</li>
+
+
+Use of Android SDK
+
+----
+<li>Created a simple clipboard Android app. Please see: https://github.com/luo-yu/AndroidProjects/tree/master/Chippet</li>
+
+
+
 Create an implementation of a Queue
 ----
 <li> Implementation of a Queue. Please see: https://github.com/luo-yu/SchoolWorks/tree/master/DataAbstractionStructure/03_Queue_Lab</li>
@@ -59,11 +84,6 @@ Determine space and time requirements of common data structure methods
 
 Describe memory management in C++, and correctly use dynamic variables, including destructors
 ----
-Possible sources of evidence (do one):
-
-* Select any of your labs or projects that uses dynamic memory, and explain how memory is managed. In particular, you must show that your program does not leak memory, and does not suffer from dangling pointers or out of bounds array access. This will probably require referring to your code, providing links.
-
-<strong><em>Evidence:<em></strong>
 <li>I will explain the dynamic memory management in 04_Linked_List_Lab, please see: https://github.com/luo-yu/SchoolWorks/tree/master/DataAbstractionStructure/04_Linked_List_Lab</li>
 
 <li>In C++, a pointer is a data type that stores the address of another stored value in memory. The Heap and the Stack are two parts in the RAM. The Stack is used to hold the local variables, the return values, and the return addresses from each time I call a function. I cannot use the Stack for things that want to live on. In my lab, all the local variables within every function will be allocated onto the Stack in the RAM. These local variables will be added to the stack at running time in a Last in First out (LIFO) order. </li>
