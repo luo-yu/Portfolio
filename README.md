@@ -16,7 +16,7 @@ Use Java programing language, basic to object-oriented concepts
 Use Java in data communication (TCP, UDP)
 ----
 <li>Created a simple Tic Tac Toe game. Please see: https://github.com/luo-yu/DataCommunication/tree/master/TicTacToe  </li>
-<li>Creatd a spacewar project, a 2d multi-thread game. Please see: https://github.com/luo-yu/DataCommunication/tree/master/SpaceWar</li>
+<li>Created a spacewar game, a 2d multi-thread game. Please see: https://github.com/luo-yu/DataCommunication/tree/master/SpaceWar</li>
 
 Use C++ programing language, basic to object-oriented concepts
 ----
