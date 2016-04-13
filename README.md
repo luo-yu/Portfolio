@@ -28,7 +28,6 @@ Use PHP with MySQL
 
 
 Use Android SDK
-
 ----
 <li>Created a simple clipboard Android app. Please see: https://github.com/luo-yu/AndroidProjects/tree/master/Chippet</li>
 
