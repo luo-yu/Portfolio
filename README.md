@@ -23,12 +23,12 @@ Use C++ programing language, basic to object-oriented concepts
 ----
 <li>Please see: https://github.com/luo-yu/SchoolWorks/tree/master/Fall2014/cs216</li>
 
-Use of PHP with MySQL 
+Use PHP with MySQL 
 ----
 <li>Created a simple CMS website. Please see:  https://github.com/luo-yu/CS405G_Project/tree/santa/santa</li>
 
 
-Use of Android SDK
+Use Android SDK
 
 ----
 <li>Created a simple clipboard Android app. Please see: https://github.com/luo-yu/AndroidProjects/tree/master/Chippet</li>
